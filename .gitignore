@@ -1,0 +1,17 @@
+# Modeller ve Ağırlıklar
+best_food_model/
+Market_Sales_Model/
+*.pkl
+*.json
+*.pt
+*.h5
+
+# Büyük Veri ve Özellik Dosyaları
+*.npy
+
+# macOS Sistem Dosyaları
+.DS_Store
+**/.DS_Store
+
+# VSCode Ayarları
+.vscode/

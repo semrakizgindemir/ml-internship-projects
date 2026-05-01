@@ -1,0 +1,2 @@
+﻿En_Iyi_Model,Best_Params,Test_R2,Test_RMSE,Test_MAE,CV_R2_Mean,CV_R2_Std,Ortalama_Yuzde_Hata
+GradientBoosting,"{'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__n_estimators': 100}",0.949822233098085,65.84736437212686,34.48106919635778,0.8982731655514116,0.012165959897410128,37.98704328283853
